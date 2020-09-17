@@ -11,3 +11,7 @@ La idea es un programa simple, y sencillo, brinda la opción de elegir que espec
 a las demás. 
 
 ![Inicio](https://raw.github.com/walkiria-paturlanne/Veterinaria/master/Capturas/Veterinaria%20Inicio.png)
+
+![Caninos](https://raw.github.com/walkiria-paturlanne/Veterinaria/master/Capturas/caninos%20beep.png)
+
+![Aves](https://raw.github.com/walkiria-paturlanne/Veterinaria/master/Capturas/aves.png)
