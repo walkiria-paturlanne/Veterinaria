@@ -10,8 +10,8 @@ pudiendo además editar datos, eliminarlos o simplemente consultarlos.
 La idea es un programa simple, y sencillo, brinda la opción de elegir que especie de animal se quiere ingresar, se puede deslizar de una interfaz 
 a las demás. 
 
-![Inicio](https://raw.github.com/walkiria-paturlanne/Veterinaria/master/Capturas/Veterinaria%20Inicio.png)
+![Inicio](https://raw.github.com/walkiria-paturlanne/Veterinaria/master/Capturas/Veterinaria%20Inicio%20.png)
 
 ![Caninos](https://raw.github.com/walkiria-paturlanne/Veterinaria/master/Capturas/caninos%20beep.png)
 
-![Aves](https://raw.github.com/walkiria-paturlanne/Veterinaria/master/Capturas/aves.png)
+![Aves](https://raw.github.com/walkiria-paturlanne/Veterinaria/master/Capturas/aves%20.png)
